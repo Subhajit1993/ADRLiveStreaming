@@ -1,5 +1,4 @@
 # ADRLiveStreaming
-HLS Live Streaming with Adaptive Bitrate
+HLS Live Streaming with Dynamic Adaptive Bitrate
 
-
-![System Design](https://github.com/Subhajit1993/ADRLiveStreaming/assets/14362620/89e0cb7f-7849-461e-ae2c-25a3830ed41b)
+![System Design](https://github.com/Subhajit1993/ADRLiveStreaming/assets/14362620/17800b95-c664-4ea6-95c5-6f6ed7991ea6)
